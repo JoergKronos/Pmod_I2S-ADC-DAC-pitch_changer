@@ -1,5 +1,5 @@
-# Pmod_I2S-ADC-DAC-V3.1-pitch_RC
-Pitch Changer Version 3.1
+# Pmod_I2S-ADC-DAC-pitch
+Pitch Changer
 
 //Version 1.0
 //  For Arduino IDE 1.8.13
